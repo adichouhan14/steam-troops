@@ -1,0 +1,76 @@
+.background-pattern{
+    background-image: url("images/bg.jpg");
+    background-size: 90px;
+    background-repeat: repeat;
+    
+}
+
+.brand{
+    font-size:6.4vw;	
+    text-align:center;
+}
+
+.absolute{
+    position: absolute;
+}
+.mybox
+{
+    position: relative;
+    width: 90%;
+    height: 100%;
+    align-self: center;
+    margin-left: 5%;
+    
+}
+.ml-10{
+    margin-left: 10%;
+}
+.ml-7{
+    margin-left: 7%;
+}
+.ml-8{
+    margin-left: 8%;
+}
+.mr-7{
+    margin-right: 7%;
+}
+.not-inline{
+    display:block;
+}
+.inline{
+    display: inline;
+}
+
+.product-font{
+    color: #f7f7f7;
+    font-size: 30px;
+    text-align: center;
+    align-content: center;
+    left: 50%;
+}
+.content-holder{
+    position: absolute;
+    margin-top: 10%;
+    z-index: 2;
+    width: 100%;
+    height:fit-content;
+
+}
+
+.Image-holder{
+    position:absolute;
+    width: 100%;
+    z-index: 2;
+}
+
+
+
+.paragraph{
+    color: #f7f7f7;
+    margin-left: 6%;
+    margin-right: 6%;
+    font-size:2.3vw;
+    text-align:justify;
+    padding-top: 8%;
+
+}

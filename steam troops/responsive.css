@@ -1,0 +1,823 @@
+
+/*@media(max-width:1920px)*/
+@media(max-width: 600px) {
+    #img2{
+	position:absolute;
+    top:5%;
+	display:block;
+	margin-left:38%;
+	
+    }
+
+	.container1{
+	background-image: url("images/bg.jpg");
+    background-size: 90px;
+	margin-right:0;
+    padding-bottom:8%;
+    }
+    
+	#brand{
+  	font-size:6.4
+	vw;	
+	text-align:center;
+    }
+
+    #boxone{
+        background-color: #fd4a5c;
+        height:45%;
+        margin-left: 3%;
+        margin-right: 3%;
+        vertical-align: top;
+        font-family: abfont;
+        position: relative;
+        margin-top: 13.8%;
+        margin-bottom: 4%;
+    }
+
+    #boxone p{
+        color: #f7f7f7;
+        padding-top: 13%;
+        margin-left: 6%;
+        margin-right: 8%;
+        font-size:3.5vw;
+    }
+
+    #steamlogo{
+        position: absolute;
+        bottom: 72%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    
+    h1{
+        font-family: abfont;
+        text-align: center;
+        padding-top: 5%;
+        font-weight: bold;
+    
+    }
+    @font-face{
+        font-family: abfont;
+        src: url(imgs/Dosis-FontZillion/Fonts/dosis-medium.ttf);
+    }
+    
+    #assets{
+        height:12%;
+		margin-left:6.5%;
+        padding-left: 5.2%;
+        margin-top: 3%;
+        display: inline;
+    }
+    #product{
+        display: inline-block;
+		margin-left:4%;
+        padding-left: 8.2%;
+        margin-top: 2%;
+        color: #f7f7f7;
+        font-size: 20px;
+    }
+    #button1{
+        margin-top: 5%;
+        text-align: center;
+        margin-left: 41%;
+        border-radius: 8px;
+        border: 0px;
+        background-color:#6fcfeb ;
+        color: #f7f7f7;
+        padding:1.5% 2.8%;
+        font-size: 10px;
+        cursor: pointer;
+        margin-bottom: 3%;
+    
+    }
+    #button1:hover{
+        background-color:#00bc70 ;
+    }
+    
+    #boxtwo{
+        background-color: #00bc70;
+        height:45%;
+        margin-left: 3%;
+        margin-right: 3%;
+        vertical-align: top;
+        font-family: abfont;
+        position: relative;
+        margin-top: 13.8%;
+        margin-bottom: 4%;
+    }
+    #boxtwo p{
+        color: #f7f7f7;
+        padding-top: 13%;
+        margin-left: 6%;
+        margin-right: 8%;
+        font-size:3.5vw;
+    }
+    #button2{
+        margin-top: 5%;
+        text-align: center;
+        margin-left: 41%;
+        border-radius: 8px;
+        border: 0px;
+        background-color: #fd4a5c;
+        color: #f7f7f7;
+        padding:1.5% 2.8%;
+        font-size: 10px;
+        cursor: pointer;
+        margin-bottom: 3%;
+    
+    }
+    #button2:hover{
+        background-color:#6fcfeb ;
+    }
+    
+    #boxthree{
+        background-color:#6fcfeb ;
+        height:45%;
+        margin-left: 3%;
+        margin-right: 3%;
+        vertical-align: top;
+        font-family: abfont;
+        position: relative;
+        margin-top: 13.8%;
+        
+    }
+    #boxthree p{
+        color: #f7f7f7;
+        padding-top: 13%;
+        margin-left: 6%;
+        margin-right: 8%;
+        font-size:3.5vw;
+    }
+    #button3{
+        margin-top: 5%;
+        text-align: center;
+        margin-left: 41%;
+        border-radius: 8px;
+        border: 0px;
+        background-color: #00bc70;
+        color: #f7f7f7;
+        padding:1.5% 2.8%;
+        font-size: 10px;
+        cursor: pointer;
+        margin-bottom: 3%;
+    
+    }
+    #button3:hover{
+        background-color: #fd4a5c;
+    }
+    .container2{
+        background-color: #eeeeee;
+        margin-top: -3.0%;
+    }
+    #customers h1{
+        font-size:7vw;
+        font-family: abfont;
+        text-align: center;
+        padding-top: 5%;
+        font-weight: bold;
+        margin-bottom:3% ;
+    }
+    #customers{
+        background-color: #ffffff;
+        margin-left: 6%;
+        margin-right: 6%;
+        vertical-align: top;
+        font-family: abfont;
+        position: relative;
+        margin-top: 9%;
+        border-radius: 20px;
+    }
+    #customers img{
+        width: 75%;
+        height: auto;
+    }
+    .sbody{
+        padding-bottom: 5%;
+    }
+    
+    #customers p{
+        padding-top: 2%;
+        margin-left: 8%;
+        margin-right: 8%;
+        margin-bottom: 3%;
+        font-size:3.5vw;
+        font-family: abfont;
+    }
+    
+    .container3{
+        background-color: #f7f7f7;
+    }
+    #hello{
+        font-size: 5vw;
+    }
+    #contact{
+        font-size: 4vw;
+        margin-top: -2%;
+    }
+    .container4{
+        padding-bottom: 5%;
+    }
+    .container4 h1{
+        font-size:6vw;
+        font-family: abfont;
+        text-align: center;
+        padding-top: 3%;
+        font-weight: bold;
+        margin-bottom:2% ;
+    }
+	#arrow{
+    height:7%;
+	width:7%;
+    margin-left:90%;
+	/*margin-bottom: 13%;
+	cursor: pointer;*/
+    }
+
+    #heading{
+        background-color: #ffffff;
+        margin-left: 6%;
+        margin-right: 6%;
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-bottom: 3%;
+        vertical-align: top;
+        font-family: abfont;
+        position: relative;
+        margin-top: 3.5%;
+        border-radius: 20px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    #heading h1{
+        font-size:4.9vw;
+        font-family: abfont;
+        text-align: left;
+        padding-top: 3%;
+        font-weight: bold;
+        margin-bottom:2% ;
+    }
+    #heading p{
+        font-size:3.3vw;
+        font-family: abfont;
+        text-align:justify;
+        padding-top: 3%;
+        margin-bottom:2% ;
+    }
+	#contact{
+    font-size: 2.5vw;
+	}
+	#hello{
+    font-size: 3.3vw;
+	}	
+
+    footer{
+        font-size:5.4vw;
+		background-color:#f7f7f7;
+    }
+}
+  
+  @media(max-width: 720px) 
+  {
+    #img2{
+	position:absolute;
+    top:5%;
+	display:block;
+	margin-left:38%;
+	
+    }
+	.container1{
+	background-image: url("images/bg.jpg");
+    background-size: 90px;
+	margin-right:0;
+    padding-bottom:8%;
+    }
+    
+	#brand{
+  	font-size:6.4
+	vw;	
+	text-align:center;
+    }
+
+    #boxone{
+        background-color: #fd4a5c;
+        height:45%;
+        margin-left: 3%;
+        margin-right: 3%;
+        vertical-align: top;
+        font-family: abfont;
+        position: relative;
+        margin-top: 13.8%;
+        margin-bottom: 4%;
+    }
+    #boxone p{
+        color: #f7f7f7;
+        padding-top: 13%;
+        margin-left: 6%;
+        margin-right: 8%;
+        font-size:3.5vw;
+    }
+    #steamlogo{
+        position: absolute;
+        bottom: 72%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    
+    h1{
+        font-family: abfont;
+        text-align: center;
+        padding-top: 5%;
+        font-weight: bold;
+    
+    }
+    @font-face{
+        font-family: abfont;
+        src: url(imgs/Dosis-FontZillion/Fonts/dosis-medium.ttf);
+    }
+    
+    #assets{
+        height:12%;
+		margin-left:6.5%;
+        padding-left: 5.2%;
+        margin-top: 3%;
+        display: inline;
+    }
+    #product{
+        display: inline-block;
+		margin-left:4%;
+        padding-left: 8.2%;
+        margin-top: 2%;
+        color: #f7f7f7;
+        font-size: 20px;
+    }
+    #button1{
+        margin-top: 5%;
+        text-align: center;
+        margin-left: 41%;
+        border-radius: 8px;
+        border: 0px;
+        background-color:#6fcfeb ;
+        color: #f7f7f7;
+        padding:1.5% 2.8%;
+        font-size: 10px;
+        cursor: pointer;
+        margin-bottom: 3%;
+    
+    }
+    #button1:hover{
+        background-color:#00bc70 ;
+    }
+    
+    #boxtwo{
+        background-color: #00bc70;
+        height:45%;
+        margin-left: 3%;
+        margin-right: 3%;
+        vertical-align: top;
+        font-family: abfont;
+        position: relative;
+        margin-top: 13.8%;
+        margin-bottom: 4%;
+    }
+    #boxtwo p{
+        color: #f7f7f7;
+        padding-top: 13%;
+        margin-left: 6%;
+        margin-right: 8%;
+        font-size:3.5vw;
+    }
+    #button2{
+        margin-top: 5%;
+        text-align: center;
+        margin-left: 41%;
+        border-radius: 8px;
+        border: 0px;
+        background-color: #fd4a5c;
+        color: #f7f7f7;
+        padding:1.5% 2.8%;
+        font-size: 10px;
+        cursor: pointer;
+        margin-bottom: 3%;
+    
+    }
+    #button2:hover{
+        background-color:#6fcfeb ;
+    }
+    
+    #boxthree{
+        background-color:#6fcfeb ;
+        height:45%;
+        margin-left: 3%;
+        margin-right: 3%;
+        vertical-align: top;
+        font-family: abfont;
+        position: relative;
+        margin-top: 13.8%;
+        
+    }
+    #boxthree p{
+        color: #f7f7f7;
+        padding-top: 13%;
+        margin-left: 6%;
+        margin-right: 8%;
+        font-size:3.5vw;
+    }
+    #button3{
+        margin-top: 5%;
+        text-align: center;
+        margin-left: 41%;
+        border-radius: 8px;
+        border: 0px;
+        background-color: #00bc70;
+        color: #f7f7f7;
+        padding:1.5% 2.8%;
+        font-size: 10px;
+        cursor: pointer;
+        margin-bottom: 3%;
+    
+    }
+    #button3:hover{
+        background-color: #fd4a5c;
+    }
+    .container2{
+        background-color: #eeeeee;
+        margin-top: -3.0%;
+    }
+    #customers h1{
+        font-size:7vw;
+        font-family: abfont;
+        text-align: center;
+        padding-top: 5%;
+        font-weight: bold;
+        margin-bottom:3% ;
+    }
+    #customers{
+        background-color: #ffffff;
+        margin-left: 6%;
+        margin-right: 6%;
+        vertical-align: top;
+        font-family: abfont;
+        position: relative;
+        margin-top: 9%;
+        border-radius: 20px;
+    }
+    #customers img{
+        width: 75%;
+        height: auto;
+    }
+    .sbody{
+        padding-bottom: 5%;
+    }
+    
+    #customers p{
+        padding-top: 2%;
+        margin-left: 8%;
+        margin-right: 8%;
+        margin-bottom: 3%;
+        font-size:3.5vw;
+        font-family: abfont;
+    }
+    
+    .container3{
+        background-color: #f7f7f7;
+    }
+    #hello{
+        font-size: 5vw;
+    }
+    #contact{
+        font-size: 4vw;
+        margin-top: -2%;
+    }
+    .container4{
+        padding-bottom: 5%;
+    }
+    .container4 h1{
+        font-size:6vw;
+        font-family: abfont;
+        text-align: center;
+        padding-top: 3%;
+        font-weight: bold;
+        margin-bottom:2% ;
+    }
+	#arrow{
+    height:7%;
+	width:7%;
+    margin-left:90%;
+	/*margin-bottom: 13%;
+	cursor: pointer;*/
+    }
+
+    #heading{
+        background-color: #ffffff;
+        margin-left: 6%;
+        margin-right: 6%;
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-bottom: 3%;
+        vertical-align: top;
+        font-family: abfont;
+        position: relative;
+        margin-top: 3.5%;
+        border-radius: 20px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    #heading h1{
+        font-size:4.9vw;
+        font-family: abfont;
+        text-align: left;
+        padding-top: 3%;
+        font-weight: bold;
+        margin-bottom:2% ;
+    }
+    #heading p{
+        font-size:3.3vw;
+        font-family: abfont;
+        text-align:justify;
+        padding-top: 3%;
+        margin-bottom:2% ;
+    }
+	#contact{
+    font-size: 2.5vw;
+	}
+	#hello{
+    font-size: 3.3vw;
+	}	
+
+    footer{
+        font-size:5.4vw;
+		background-color:#f7f7f7;
+    }
+}
+  
+@media(max-width: 500px) {
+    #img2{
+	position:absolute;
+    top:5%;
+	display:block;
+	margin-left:38%;
+	
+    }
+	.container1{
+	background-image: url("images/bg.jpg");
+    background-size: 20%;
+	margin-right:0;
+    padding-bottom:8%;
+	}
+	#brand{
+  	font-size:6.4
+	vw;	
+	text-align:center;
+    }
+
+    #boxone{
+        background-color: #fd4a5c;
+        height:45%;
+        margin-left: 3%;
+        margin-right: 3%;
+        vertical-align: top;
+        font-family: abfont;
+        position: relative;
+        margin-top: 13.8%;
+        margin-bottom: 4%;
+    }
+    #boxone p{
+        color: #f7f7f7;
+        padding-top: 13%;
+        margin-left: 6%;
+        margin-right: 8%;
+        font-size:3.5vw;
+    }
+    #steamlogo{
+        position: absolute;
+        bottom: 72%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    
+    h1{
+        font-family: abfont;
+        text-align: center;
+        padding-top: 5%;
+        font-weight: bold;
+    
+    }
+    @font-face{
+        font-family: abfont;
+        src: url(imgs/Dosis-FontZillion/Fonts/dosis-medium.ttf);
+    }
+    
+    #assets{
+        height:12%;
+		margin-left:6.5%;
+        padding-left: 5.2%;
+        margin-top: 3%;
+        display: inline;
+    }
+    #product{
+        display: inline-block;
+		margin-left:4%;
+        padding-left: 8.2%;
+        margin-top: 2%;
+        color: #f7f7f7;
+        font-size: 20px;
+    }
+    #button1{
+        margin-top: 5%;
+        text-align: center;
+        margin-left: 41%;
+        border-radius: 8px;
+        border: 0px;
+        background-color:#6fcfeb ;
+        color: #f7f7f7;
+        padding:1.5% 2.8%;
+        font-size: 10px;
+        cursor: pointer;
+        margin-bottom: 3%;
+    
+    }
+    #button1:hover{
+        background-color:#00bc70 ;
+    }
+    
+    #boxtwo{
+        background-color: #00bc70;
+        height:45%;
+        margin-left: 3%;
+        margin-right: 3%;
+        vertical-align: top;
+        font-family: abfont;
+        position: relative;
+        margin-top: 13.8%;
+        margin-bottom: 4%;
+    }
+    #boxtwo p{
+        color: #f7f7f7;
+        padding-top: 13%;
+        margin-left: 6%;
+        margin-right: 8%;
+        font-size:3.5vw;
+    }
+    #button2{
+        margin-top: 5%;
+        text-align: center;
+        margin-left: 41%;
+        border-radius: 8px;
+        border: 0px;
+        background-color: #fd4a5c;
+        color: #f7f7f7;
+        padding:1.5% 2.8%;
+        font-size: 10px;
+        cursor: pointer;
+        margin-bottom: 3%;
+    
+    }
+    #button2:hover{
+        background-color:#6fcfeb ;
+    }
+    
+    #boxthree{
+        background-color:#6fcfeb ;
+        height:45%;
+        margin-left: 3%;
+        margin-right: 3%;
+        vertical-align: top;
+        font-family: abfont;
+        position: relative;
+        margin-top: 13.8%;
+        
+    }
+    #boxthree p{
+        color: #f7f7f7;
+        padding-top: 13%;
+        margin-left: 6%;
+        margin-right: 8%;
+        font-size:3.5vw;
+    }
+    #button3{
+        margin-top: 5%;
+        text-align: center;
+        margin-left: 41%;
+        border-radius: 8px;
+        border: 0px;
+        background-color: #00bc70;
+        color: #f7f7f7;
+        padding:1.5% 2.8%;
+        font-size: 10px;
+        cursor: pointer;
+        margin-bottom: 3%;
+    
+    }
+    #button3:hover{
+        background-color: #fd4a5c;
+    }
+    .container2{
+        background-color: #eeeeee;
+        margin-top: -3.0%;
+    }
+    #customers h1{
+        font-size:7vw;
+        font-family: abfont;
+        text-align: center;
+        padding-top: 5%;
+        font-weight: bold;
+        margin-bottom:3% ;
+    }
+    #customers{
+        background-color: #ffffff;
+        margin-left: 6%;
+        margin-right: 6%;
+        vertical-align: top;
+        font-family: abfont;
+        position: relative;
+        margin-top: 9%;
+        border-radius: 20px;
+    }
+    #customers img{
+        width: 75%;
+        height: auto;
+    }
+    .sbody{
+        padding-bottom: 5%;
+    }
+    
+    #customers p{
+        padding-top: 2%;
+        margin-left: 8%;
+        margin-right: 8%;
+        margin-bottom: 3%;
+        font-size:3.5vw;
+        font-family: abfont;
+    }
+    
+    .container3{
+        background-color: #f7f7f7;
+    }
+    #hello{
+        font-size: 5vw;
+    }
+    #contact{
+        font-size: 4vw;
+        margin-top: -2%;
+    }
+    .container4{
+        padding-bottom: 5%;
+    }
+    .container4 h1{
+        font-size:6vw;
+        font-family: abfont;
+        text-align: center;
+        padding-top: 3%;
+        font-weight: bold;
+        margin-bottom:2% ;
+    }
+	#arrow{
+    height:7%;
+	width:7%;
+    margin-left:90%;
+	/*margin-bottom: 13%;
+	cursor: pointer;*/
+}
+
+    #heading{
+        background-color: #ffffff;
+        margin-left: 6%;
+        margin-right: 6%;
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-bottom: 3%;
+        vertical-align: top;
+        font-family: abfont;
+        position: relative;
+        margin-top: 3.5%;
+        border-radius: 20px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    #heading h1{
+        font-size:4.9vw;
+        font-family: abfont;
+        text-align: left;
+        padding-top: 3%;
+        font-weight: bold;
+        margin-bottom:2% ;
+    }
+    #heading p{
+        font-size:3.3vw;
+        font-family: abfont;
+        text-align:justify;
+        padding-top: 3%;
+        margin-bottom:2% ;
+    }
+	#contact{
+    font-size: 2.5vw;
+	}
+	#hello{
+    font-size: 3.3vw;
+	}	
+
+    footer{
+        font-size:5.4vw;
+		background-color:#f7f7f7;
+    }
+  }  
